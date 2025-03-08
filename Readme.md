@@ -12,8 +12,16 @@ go run main.go
 
 ## Testing
 
+Run all tests
+
 ```
 go test ./...
+```
+
+Run specific test
+
+```
+go test ./checker
 ```
 
 ## Purpose
